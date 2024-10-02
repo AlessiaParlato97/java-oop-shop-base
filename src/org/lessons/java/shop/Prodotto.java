@@ -55,19 +55,5 @@ public class Prodotto {
 	        return code + "-" + name;
 	    }
 	    
-	    
-	    
-	    
-	    /*public class Main {
-	    	
-		    public static void main(String[] args) {
-		        // Creazione di un nuovo prodotto
-		        Prodotto prodotto = new Prodotto("Laptop", 1000.00, 22.0);
-
-		        // Test delle funzionalità della classe Prodotto
-		        System.out.println("Nome esteso: " + prodotto.getNomeEsteso());
-		        System.out.println("Prezzo base: " + prodotto.getPrezzoBase() + " €");
-		        System.out.println("Prezzo con IVA: " + prodotto.getPrezzoConIva() + " €");
-		    }*/
 		}
 
