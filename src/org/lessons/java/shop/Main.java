@@ -20,18 +20,23 @@ public class Main {
 	        System.out.println("Saldo attuale: " + conto.getSaldo());
 	    }
 	}*/
+	
+	
+	/*
+	public class Main {
+    public static void main(String[] args) {
+        RegistroStudenti registro = new RegistroStudenti();
+        
+        Studente studente1 = new Studente("Alessia", "Parlato", 27);
+        Studente studente2 = new Studente("Arlo", "Arlecchino",7);
+        
+        registro.aggiungiStudente(studente1);
+        registro.aggiungiStudente(studente2);
+        
+        registro.stampaListaStudenti();
+    }
 }
-
-
-
-
-
-/*Snack 3: Registro Studenti
-Crea una classe RegistroStudenti che rappresenti un registro di studenti. Utilizza un array privato per memorizzare
-oggetti Studente. Implementa un costruttore senza parametri per inizializzare il registro vuoto e un metodo pubblico
-per aggiungere studenti al registro. Aggiungi un metodo che stampi la lista degli studenti.*/
-
-
-
+*/
+}
 
 
