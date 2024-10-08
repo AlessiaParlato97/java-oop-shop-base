@@ -11,17 +11,16 @@ public class Main {
         System.out.println("Prezzo con IVA: " + prodotto.getPrezzoConIva() + " €");
 
 }
+	
+	
+	    /*public static void main(String[] args) {
+	        ContoBancario conto = new ContoBancario("123456789");
+	        conto.deposita(1000);
+	        conto.preleva(500);
+	        System.out.println("Saldo attuale: " + conto.getSaldo());
+	    }
+	}*/
 }
-
-
-
-
-
-
-/*Snack 2:Gestione di un Conto
-Crea una classe ContoBancario con attributi per numero di conto e saldo.
-Implementa un costruttore che accetta il numero di conto e inizializza il saldo a zero.
-Aggiungi metodi pubblici per depositare denaro sul conto, prelevare denaro dal conto e ottenere il saldo corrente.*/
 
 
 
